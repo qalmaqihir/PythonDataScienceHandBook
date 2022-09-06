@@ -15,6 +15,12 @@ by Jake VanderPlas
 3) We care about quality, so make sure to revise your notes before submitting.
 4) Once you are finished, open a PR here.
 
+### Wanna Add to this:
+ 1) Fork this repo
+ 2) clone it to your local machine
+ 3) Make the changes/add the changes
+ 4) push the changes to your forked repo and then finally send me a pull request
+ 
 If you encounter any problems with the notes? Reach out to the authors of the notes and open issue here.
 
 If you have any questions, open an issue or reach out to me on [Twitter](https://twitter.com/qalmaqihir).
